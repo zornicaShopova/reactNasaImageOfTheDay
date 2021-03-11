@@ -1,0 +1,13 @@
+@import 'custom.scss';
+
+$body-bg:#aac3dc;
+
+// Carousel
+$carousel-control-color: rgb(187, 183, 183);
+$carousel-caption-color: rgb(255, 255, 255);
+$carousel-indicator-active-bg: gray;
+
+
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
