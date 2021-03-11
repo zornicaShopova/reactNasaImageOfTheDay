@@ -7,5 +7,5 @@ Web site use :
 
 #About - here you can see information and resources 
 
-#Contact - here you can sent  email (no actual request is made) 
+#Contact - here you can sent tour questions (no actual request is made) 
 
