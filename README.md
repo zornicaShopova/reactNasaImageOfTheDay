@@ -1,3 +1,6 @@
+About:
+Web shows image of the day from NASA gallery 
+
 Web site use :
 - NASA Open API for image of the day
 - react,axios,redux
