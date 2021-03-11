@@ -9,3 +9,16 @@ Web site use :
 
 #Contact - here you can sent tour questions (no actual request is made) 
 
+------------------------------------
+Importan files for displaying the images:
+- components/filters/selectDay.js
+- components/nasaData/nasaImage.js
+- network/network-nasa-client.js
+- pages/NasaImages.js
+- nasa-constants.js
+
+#added new functions,const in 
+- redux/action-type.js
+- redux/actions.js
+- redux/reducers.js
+
